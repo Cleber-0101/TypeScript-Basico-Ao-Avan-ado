@@ -6,5 +6,5 @@
 // let c: number = 5000
 // console.log(c)
 //tipo dados string em TS 
-var nome = "cleber";
-console.log(nome.toLocaleUpperCase());
+// var nome = "cleber";
+// console.log(nome.toLocaleUpperCase());

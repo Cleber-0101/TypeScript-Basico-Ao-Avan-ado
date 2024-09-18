@@ -1,18 +1,7 @@
+// //tipo inference
+// const nn: number = 58;
 
-//tipando dados Number em TS
-let x: number = 10
-x = 16
-console.log(typeof x)
+// const nn1 = nn.toString();
 
-console.log(typeof x)
-let c: number = 5000
-console.log(c)
-
-tipo dados string em TS 
-let nome: string =  "cleber"
-console.log(nome.toLocaleUpperCase())
-
-
-tipo boolean true ou false 
-let a: boolean = true
-console.log(typeof a)
+// const resultado: string = `eu sou zica do type${nn1}`;
+// console.log(resultado);
